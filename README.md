@@ -1,2 +1,2 @@
 # alias
-My list of alias
+My list of aliases

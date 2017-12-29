@@ -1,0 +1,6 @@
+alias ll="ls -lhA"
+alias ps="ps auxf"
+alias mkdir="mkdir -pv"
+alias histg="history | grep"
+alias top="htop"
+alias myip="curl http://ipecho.net/plain; echo"
